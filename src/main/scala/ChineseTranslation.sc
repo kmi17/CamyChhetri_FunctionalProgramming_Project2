@@ -3,9 +3,8 @@ val english: List[String] = List("zero", "one", "two", "three", "four", "five", 
 val a = chinese
 val b = english
 
-//val mylist = a ::: b
+val mylist = a ::: b
 
-val languageMap = (a:::b)
 
 
 
